@@ -43,3 +43,8 @@ V rámci úkolu jsme:
 
 ---
 
+## Náhled grafu
+
+Po spuštění hlavního skriptu se otevře grafické okno. Obrázek níže ukazuje, jak graf může vypadat:
+
+![Kružnice graf](circle_graph.png)

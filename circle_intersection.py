@@ -20,3 +20,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+import matplotlib.pyplot as plt
+
+
+plt.savefig("circle_graph.png")  # uloží graf do súboru
+plt.show()  # potom otvorí okno s grafom
